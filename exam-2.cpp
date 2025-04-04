@@ -13,7 +13,7 @@ int main(){
 
     cin >> v1 >> v2;
 
-    cout <<"Ans :" << isPrime(v1,v2);
+    cout <<"Sum of Prime Numbers of Given Range:" << isPrime(v1,v2);
     return 0;
 }
 

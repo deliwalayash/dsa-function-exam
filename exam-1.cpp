@@ -13,7 +13,7 @@ int main(){
 
     cin >> v1 >> v2;
 
-    cout <<"Ans :" << multipliers(v1,v2);
+    cout <<"Sum of Multipliers of Given Range  :" << multipliers(v1,v2);
     return 0;
 }
 
